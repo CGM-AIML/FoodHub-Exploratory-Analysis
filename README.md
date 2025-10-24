@@ -18,9 +18,8 @@ The analysis reveals patterns in FoodHub's customer behavior, order frequency, a
 - Repeat orders play a major role in overall retention rates.
 - Customer activity patterns highlight opportunities for improving service touchpoints and order consistency.
 
-## Run the Notebook
-[![Open In Github](https://colab.research.google.com/github/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb))
-
+## Vew Modeling
+[![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb)
 
 ## Verification
 This project is also published in my **Great Learning ePortfolio (UT Austin – McCombs School of Business, AI & ML Program):**
