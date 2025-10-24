@@ -19,7 +19,7 @@ The analysis reveals patterns in FoodHub's customer behavior, order frequency, a
 - Customer activity patterns highlight opportunities for improving service touchpoints and order consistency.
 
 ## Run the Notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb)
+[![Open In Github](https://colab.research.google.com/github/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb))
 
 
 ## Verification
