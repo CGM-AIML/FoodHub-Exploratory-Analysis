@@ -73,16 +73,13 @@ The objective is to inform strategic decisions related to customer experience, s
 
 ---
 
-## Project Context
-This project was completed as part of the **Python Foundations** course in the  
-**UT Austin / Great Learning Post Graduate Program in AI & ML (2025–2026)** and has been refactored for **portfolio-grade presentation**.
-
----
-
 ## View Modeling
 [![Open In GitHub](https://img.shields.io/badge/Open%20in-GitHub-black?logo=github)](https://github.com/CGM-AIML/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_Notebook_Christopher_Gonzalez_Mejias.ipynb)
 
-## Verification
-This project is also published in my **Great Learning ePortfolio (UT Austin – McCombs School of Business, AI & ML Program):**
+---
+
+## Project Context
+This project was completed as part of the **Python Foundations** course in the  
+**UT Austin / Great Learning Post Graduate Program in AI & ML (2025–2026)** and has been refactored for **portfolio-grade presentation**.
 
 [View FoodHub Project in ePortfolio](https://www.mygreatlearning.com/eportfolio/christopher-gonzalez-mejias)  
